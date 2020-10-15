@@ -1,0 +1,58 @@
+
+.block {
+  margin: 10px auto;
+  width: 50%;
+}
+
+mat-radio-button {
+padding-left: 20px;
+}
+
+
+canvas{
+  border: 3px solid #202020;
+  background: #414141;
+}
+
+#info {
+  position: relative;
+}
+
+#info h1{
+  text-align: center;
+}
+
+#info h3 {
+  text-align: center;
+}
+
+#wrapper {
+  color: #ffe300;
+  background: #252525;
+  /*border: 1px solid black;*/
+  padding-top: 20px;
+  padding-left: 20px;
+  position:relative;
+}
+#drawing {
+  width: 1050px;
+}
+
+.abinput {
+  background: #414141;
+  color: #ffea3c;
+}
+
+
+#settings {
+  /*border: 1px solid green;*/
+  position: absolute;
+  left: 1050px;
+  right: 20px;
+
+  border: 3px solid #202020;
+  background: #414141;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
