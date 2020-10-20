@@ -1,7 +1,9 @@
 # Lissajous
 
 Angular application for drawing Lissajous figures.
-![Alt text](/screenshots/ss_1.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/ss_1.jpg?raw=true)
+
+![Alt text](/screenshots/ss_2.png?raw=true)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
